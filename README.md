@@ -1,2 +1,2 @@
 # RV32I-Single-Cycle-RISC-V-Processor-in-Verilog-HDL
-This is single cycle RISC-V processor for 32 bit instruction with R, I, B, Load and Store. All required modules of RV32I Verilog codes are provided with Architecture diagram and output picture.
+This is single cycle RISC-V processor for 32 bit instruction with R, I, B, Load and Store. All required modules of RV32I Verilog codes are provided with Architecture diagram and output picture.The architecture for thisa processor is being and studied and obtained from book called "Computer Architecture and Organization RISC-V Edition" by  David A Patterson and John L Hennessy. I have provide the architecture diagram along side the verilog codes.
